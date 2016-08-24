@@ -1,7 +1,7 @@
 # Duplicate Bug Report Detection with a Combination of Information Retrieval and Topic Modeling. Automated Software Engineering (ASE), 2012 Proceedings of the 27th IEEE/ACM International Conference. Anh Tuan Nguyen, Tung Thanh Nguyen, Tien N. Nguyen, David Lo, Chengnian Sun.
 
 ## Keywords:
-#### Duplicate Bug Reports - If the techinical issues in a system have been previously encountered as part of a bug report, then succeeding bug reports containing the description of the same issues is referred to as a duplicate bug report.
+#### Duplicate Bug Reports - If the technical issues in a system have been previously encountered as part of a bug report, then succeeding bug reports containing the description of the same issues is referred to as a duplicate bug report.
 
 #### Topic Model - This model is used to detect duplicate bug reports even when they have textual dissimilarities. This kind of modelling is often used to discover semantic structure in a body of text.
 
